@@ -1,7 +1,7 @@
 {
   "name": "pdm2_aulas",
   "version": "1.0.0",
-  "description": "",
+  "description": "Minha primeira PWA, programada utilizando-se vanilla JS.",
   "main": "index.html",
   "scripts": {
     "serve": "serve .",
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/apsschotten/PDM2_Aulas.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ana Paula dos Santos Schotten",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
