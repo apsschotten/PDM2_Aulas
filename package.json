@@ -1,0 +1,25 @@
+{
+  "name": "pdm2_aulas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "serve": "serve .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apsschotten/PDM2_Aulas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/apsschotten/PDM2_Aulas/issues"
+  },
+  "homepage": "https://github.com/apsschotten/PDM2_Aulas#readme",
+  "dependencies": {
+    "serve": "^14.2.5"
+  }
+}
